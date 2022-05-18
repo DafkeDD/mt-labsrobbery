@@ -1,6 +1,9 @@
 # mt-labsrobbery
 Human Labs Robbery for QBCore Framework
 
+# preview
+https://youtu.be/pWTlw4xQYas
+
 # Add to qb-core/shared/items.lua
 ```
 	-- mt-labsrobbery
